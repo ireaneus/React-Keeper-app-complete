@@ -1,4 +1,4 @@
-# React-Dependencies
+# Completed Keeper App (Notes)
 
 ## App.js
 ```js
