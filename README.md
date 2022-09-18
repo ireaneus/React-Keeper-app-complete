@@ -37,3 +37,4 @@ function App() {
       <Footer />
     </div>
     ```
+   ## CreateArea
